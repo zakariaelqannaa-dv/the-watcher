@@ -24,7 +24,7 @@ const TRUSTED_UPDATE_SOURCES = [
     origin: "https://github.com",
     // Must match the full repo path so an attacker can't use
     // a different repo on github.com to serve a malicious binary.
-    pathPrefix: "/zakariaelqannaadv/the-watcher/releases/download/",
+    pathPrefix: "/zakariaelqannaa-dv/the-watcher/releases/download/",
     redirectHosts: [
       "github.com",
       "objects.githubusercontent.com",

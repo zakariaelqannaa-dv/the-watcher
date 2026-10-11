@@ -6,8 +6,8 @@ import { storage, STORAGE_KEYS, isElectron } from "./storage";
 
 // Small badge shown as the "small_image" next to the cover.
 const APP_ICON_URL =
-  "https://raw.githubusercontent.com/zakariaelqannaadv/the-watcher/main/public/eye.png";
-const GITHUB_URL = "https://github.com/zakariaelqannaadv/the-watcher";
+  "https://raw.githubusercontent.com/zakariaelqannaa-dv/the-watcher/main/public/eye.png";
+const GITHUB_URL = "https://github.com/zakariaelqannaa-dv/the-watcher";
 
 export function readDiscordRpcSettings() {
   return {

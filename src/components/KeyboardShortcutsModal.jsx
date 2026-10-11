@@ -243,11 +243,11 @@ export default function KeyboardShortcutsModal({ onClose }) {
             </div>
           </div>
           <a
-            href="https://github.com/zakariaelqannaadv/the-watcher"
+            href="https://github.com/zakariaelqannaa-dv/the-watcher"
             onClick={(e) => {
               e.preventDefault();
               window.electron?.openExternal(
-                "https://github.com/zakariaelqannaadv/the-watcher",
+                "https://github.com/zakariaelqannaa-dv/the-watcher",
               );
             }}
             style={{

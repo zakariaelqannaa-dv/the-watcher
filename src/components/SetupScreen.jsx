@@ -138,7 +138,7 @@ export default function SetupScreen({ onSave, onSkip }) {
           <br />
           <ExternalLink
             className="apikey-link"
-            href="https://github.com/zakariaelqannaadv/the-watcher/blob/main/tmdb-tutorial.md"
+            href="https://github.com/zakariaelqannaa-dv/the-watcher/blob/main/tmdb-tutorial.md"
           >
             Step-by-step guide on how to get that Token
           </ExternalLink>

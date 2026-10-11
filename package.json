@@ -36,7 +36,7 @@
     "vite": "^7.3.1"
   },
   "build": {
-    "appId": "com.zakariaelqannaadv.thewatcher",
+    "appId": "com.zakariaelqannaa-dv.thewatcher",
     "productName": "The Watcher",
     "asar": true,
     "compression": "normal",
