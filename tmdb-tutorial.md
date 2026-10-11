@@ -50,4 +50,4 @@ Paste the token into The Watcher setup screen and press **Let's go**. And That's
 
 ## Something not working?
 
-If this guide is outdated or you're running into any issues, please [open an issue](https://github.com/truelockmc/streambert/issues/new) on GitHub.
+If this guide is outdated or you're running into any issues, please [open an issue](https://github.com/zakariaelqannaa-dv/the-watcher/issues/new) on GitHub.

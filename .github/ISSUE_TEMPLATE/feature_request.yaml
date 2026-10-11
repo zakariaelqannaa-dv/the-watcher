@@ -9,7 +9,7 @@ body:
       value: |
         **README: Before You Submit Your Issue**
         - Issues are not a place to go ask support questions or start discussions.
-        - Please use discussions instead: https://github.com/truelockmc/streambert/discussions
+        - Please use discussions instead: https://github.com/zakariaelqannaa-dv/the-watcher/discussions
 
   - type: checkboxes
     attributes:

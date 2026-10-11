@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         **README: Before You Submit Your Issue**
-        - Issues are not a place to go ask support questions or start discussions. Please ask support questions or start discussions on the [discussions page](https://github.com/truelockmc/streambert/discussions).
+        - Issues are not a place to go ask support questions or start discussions. Please ask support questions or start discussions on the [discussions page](https://github.com/zakariaelqannaa-dv/the-watcher/discussions).
   - type: checkboxes
     attributes:
       label: Guidelines
@@ -15,7 +15,7 @@ body:
       options:
         - label: I have encountered this bug in the [latest release of The Watcher](https://github.com/zakariaelqannaa-dv/the-watcher/releases).
           required: true
-        - label: I have [searched the issue tracker for open and closed issues](https://github.com/truelockmc/streambert/issues?q=is%3Aissue+sort%3Arelevance-desc) that are similar to the bug report I want to file, without success.
+        - label: I have [searched the issue tracker for open and closed issues](https://github.com/zakariaelqannaa-dv/the-watcher/issues?q=is%3Aissue+sort%3Arelevance-desc) that are similar to the bug report I want to file, without success.
           required: true
         - label: This issue contains only one bug.
           required: true
