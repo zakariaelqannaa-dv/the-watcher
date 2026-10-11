@@ -2151,7 +2151,7 @@ function SubtitleSettingsSection() {
                 }}
                 onClick={() =>
                   window.electron?.openExternal(
-                    "https://github.com/zakariaelqannaadv/streambert/blob/main/wyzie-tutorial.md",
+                    "https://github.com/zakariaelqannaadv/the-watcher/blob/main/wyzie-tutorial.md",
                   )
                 }
               >

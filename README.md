@@ -6,11 +6,11 @@
 
   **Stream & download any Movie, TV Series or Anime — zero ads, zero tracking.**
 
-  [![Release](https://img.shields.io/github/v/release/zakariaelqannaadv/streambert?style=for-the-badge&color=E50914)](https://github.com/zakariaelqannaadv/streambert/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/zakariaelqannaadv/the-watcher?style=for-the-badge&color=E50914)](https://github.com/zakariaelqannaadv/the-watcher/releases/latest)
   [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-E50914?style=for-the-badge)](LICENSE)
-  [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)](https://github.com/zakariaelqannaadv/streambert/releases/latest)
-  [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)](https://github.com/zakariaelqannaadv/streambert/releases/latest)
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/zakariaelqannaadv/streambert/releases/latest)
+  [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)](https://github.com/zakariaelqannaadv/the-watcher/releases/latest)
+  [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)](https://github.com/zakariaelqannaadv/the-watcher/releases/latest)
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/zakariaelqannaadv/the-watcher/releases/latest)
 
   [Features](#-features) · [Screenshots](#-screenshots) · [Installation](#-installation) · [Get your API key](#-get-your-own-tmdb-api-key) · [Build from source](#-building-from-source)
 
@@ -93,9 +93,9 @@ Everyone uses **their own** key — never share or reuse someone else's token.
 
 | OS | How |
 |---|---|
-| 🪟 **Windows** | Download `The Watcher Setup *.exe` from [latest release](https://github.com/zakariaelqannaadv/streambert/releases/latest) and run it |
+| 🪟 **Windows** | Download `The Watcher Setup *.exe` from [latest release](https://github.com/zakariaelqannaadv/the-watcher/releases/latest) and run it |
 | 🍎 **macOS** | Download `The Watcher-*-universal.dmg`, open it, drag The Watcher to Applications |
-| 🐧 **Linux** | Download `.deb` / `.pacman` / `.AppImage` from [latest release](https://github.com/zakariaelqannaadv/streambert/releases/latest) |
+| 🐧 **Linux** | Download `.deb` / `.pacman` / `.AppImage` from [latest release](https://github.com/zakariaelqannaadv/the-watcher/releases/latest) |
 | | ```bash # .deb sudo dpkg -i the-watcher_*.deb # Arch (.pacman) sudo pacman -U the-watcher-*.pacman # .AppImage chmod +x "The Watcher"-*.AppImage && ./"The Watcher"-*.AppImage ``` |
 
 On first launch you'll be asked for your TMDB token ([guide](#-get-your-own-tmdb-api-key)).
@@ -145,7 +145,7 @@ Project Root
 
 ## 🤝 Contributing
 
-Everyone is welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) first. Report bugs or request features in [Issues](https://github.com/zakariaelqannaadv/streambert/issues).
+Everyone is welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) first. Report bugs or request features in [Issues](https://github.com/zakariaelqannaadv/the-watcher/issues).
 
 ## 📄 License
 

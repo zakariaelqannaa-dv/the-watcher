@@ -3,8 +3,8 @@
 //
 // Supports multiple release sources (GitHub + Codeberg).
 
-export const GITHUB_REPO = "zakariaelqannaadv/streambert";
-export const CODEBERG_REPO = "zakariaelqannaadv/streambert";
+export const GITHUB_REPO = "zakariaelqannaadv/the-watcher";
+export const CODEBERG_REPO = "zakariaelqannaadv/the-watcher";
 
 // ── Source registry ───────────────────────────────────────────────────────────
 // Each entry just describes *where* to fetch from and how to build the
